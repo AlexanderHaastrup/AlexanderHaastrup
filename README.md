@@ -1,4 +1,4 @@
-### Hello everyone!👋 
+### Welcome, I have been expecting you!👋 
 It's a pleasure to meet you.😄 I'm Alexander. I am an undergraduate student at The University of Southern Mississippi with a degree major in Computer Engineering and a minor in Computer Science.
 
 🔭 My Hobbies include:
