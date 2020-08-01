@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello everyone!👋 
+It's a pleasure to meet you.😄 I'm Alexander. I am an undergraduate student at The University of Southern Mississippi with a degree major in Computer Engineering and a minor in Computer Science.
 
-<!--
-**AlexanderHaastrup/AlexanderHaastrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 My Hobbies include:
+> • Playing
+> • Learning
+> • Sleeping
+> • Watching Anime
+> • Spending time with friends and family
+> • Taking on new and exciting challenges.
 
-Here are some ideas to get you started:
+✨ ⚡ (Kinda) Fun things to know about me:
+> • I am 19 years old and I'm from Nigeria.
+> • I have a (not so) lovely TWIN sister and an elder brother
+> • I am learning sign language and left handwriting!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
