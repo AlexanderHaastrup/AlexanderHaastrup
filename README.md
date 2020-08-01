@@ -12,6 +12,6 @@ It's a pleasure to meet you.😄 I'm Alexander. I am an undergraduate student at
 ✨ ⚡ (Kinda) Fun things to know about me:
 > • I am 19 years old and I'm from Nigeria.
 > • I have a (not so) lovely TWIN sister and an elder brother
-> • I am learning sign language and left handwriting!
+> • I am learning sign language and left-hand writing!
 
 
